@@ -5,6 +5,9 @@
     border: 0;
     box-sizing: border-box;
 }
+body {
+    background-color: #292522;
+}
 ul {
     list-style-type: none;
 }

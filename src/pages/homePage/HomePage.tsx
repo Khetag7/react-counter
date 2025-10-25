@@ -1,10 +1,10 @@
 import './HomePage.css';
-import FirstComponent from '@components/common/HomeComponents/firstComponent/FirstComponent';
+import Counter from '@/components/common/HomeComponents/CounterComponent/Counter';
 
 const HomePage = () => {
     return (
         <>
-            <FirstComponent />
+            <Counter />
         </>
     );
 };
